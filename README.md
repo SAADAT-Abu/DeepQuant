@@ -1,4 +1,4 @@
-# DeepQuant
+# DeepQuant (Prototype)
 
 ## Overview
 
